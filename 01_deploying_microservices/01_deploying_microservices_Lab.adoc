@@ -8,7 +8,7 @@
 
 == Goals
 
-In this lab, you will:
+In this document, you will:
 
 * Access the OpenShift environment
 * Deploy microservice applications to OpenShift
@@ -42,7 +42,7 @@ plane functionality -- not your application code!
 
 image::images/02_service_mesh_architecture.png[Service Mesh Architecture]
 
-== Lab Overview
+== Overview
 
 There are three microservices in this lab. Here is the application architecture:
 
