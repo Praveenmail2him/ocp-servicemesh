@@ -19,8 +19,6 @@ In this document, you will learn how to:
 [width="100%",cols="5,1,3"options="header"]
 |==========================
 |Task	|   Status |     Notes
-| link:modules/01_deploying_microservices/00_setup_Lab.adoc[Setup]		|   100%     | 
-
 | link:modules/01_deploying_microservices/01_deploying_microservices_Lab.adoc[Deploying Microservices]		|   100%     | 
 | link:modules/02_monitoring_with_kiali/02_monitoring_with_kiali_Lab.adoc[Monitoring with Kiali]		|   100%     | 
 | link:modules/03_distributed_tracing/03_distributed_tracing_Lab.adoc[Distributed Tracing]		|   100%     | 
